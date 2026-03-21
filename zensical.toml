@@ -1,0 +1,21 @@
+[project]
+site_name = "Orange Pi AI Pro 20T Linux 文档"
+site_description = "Orange Pi AI Pro 20T 当前 Linux 支持情况。"
+site_author = "HwHiAiUser 与贡献者"
+copyright = "Copyright © 2026 HwHiAiUser 与贡献者"
+nav = [
+  { "概览" = "index.md" },
+]
+
+[project.theme]
+language = "zh"
+features = [
+  "announce.dismiss",
+  "content.code.copy",
+  "navigation.footer",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.instant.prefetch",
+  "navigation.path",
+  "navigation.sections",
+]
