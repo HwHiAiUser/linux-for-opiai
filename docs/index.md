@@ -6,9 +6,9 @@ icon: lucide/cpu
 
 1. Orange Pi AI Pro 20T
 
-Orange Pi AI Pro 20T: [产品官方介绍](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-AIpro(20t).html)
+    Orange Pi AI Pro 20T: [产品官方介绍](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-AIpro(20t).html)
 
-![Orange Pi AI Pro 20T](assets/20t-1.png)
+    ![Orange Pi AI Pro 20T](assets/20t-1.png)
 
 2. Orange Pi AI Pro 8T
 3. Kunpeng Pro (国产 FPGA 教学套件)
